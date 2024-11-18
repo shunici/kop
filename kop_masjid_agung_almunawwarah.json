@@ -5,15 +5,15 @@
     "name":"kop masjid agung",
     "type":"image",
     "id":1,
-    "tag":"kop",
+    "tag":"kop"
 },
 {
     "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
     "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
-    "name":"Ust. H. Syahdi Hidayat, S.Ag",
+    "name":"logo",
     "type":"image",
     "id":2,
-    "tag":"logo"
+    "tag":"ttd"
 },
 {
     "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/Drs.%20H.%20Said%20Abdullah%20Alkaff%2C%20M.SI.png",
@@ -21,7 +21,7 @@
     "name":"Drs. H. Said Abdullah Alkaff, M.SI",
     "type":"image",
     "id":3,
-    "tag":"ttd",
+    "tag":"ttd"
 },
 {
     "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/Ust.%20H.%20Syahdi%20Hidayat%2C%20S.Ag.png",
