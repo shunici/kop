@@ -8,11 +8,19 @@
     "tag":"kop",
 },
 {
+    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
+    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
+    "name":"Ust. H. Syahdi Hidayat, S.Ag",
+    "type":"image",
+    "id":2,
+    "tag":"logo"
+},
+{
     "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/Drs.%20H.%20Said%20Abdullah%20Alkaff%2C%20M.SI.png",
     "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/Drs.%20H.%20Said%20Abdullah%20Alkaff%2C%20M.SI.png",
     "name":"Drs. H. Said Abdullah Alkaff, M.SI",
     "type":"image",
-    "id":2,
+    "id":3,
     "tag":"ttd",
 },
 {
@@ -20,7 +28,7 @@
     "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/Ust.%20H.%20Syahdi%20Hidayat%2C%20S.Ag.png",
     "name":"Ust. H. Syahdi Hidayat, S.Ag",
     "type":"image",
-    "id":3,
+    "id":4,
     "tag":"ttd"
 },
 ]
