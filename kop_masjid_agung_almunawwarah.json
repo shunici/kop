@@ -1,14 +1,34 @@
-[{
-    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_al_jafri/kop%20masjid.jpg",
-    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_al_jafri/thumbnail%20kop%20masjid.jpg",
+[
+{
+    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/kop-masjid-agung.png",
+    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/kop-masjid-thumbnail.png",
+    "name":"kop masjid agung",
     "type":"image",
-    "id":1,"tag":"masjid"
+    "id":1,
+    "tag":"kop"
 },
-    {
-    "url":"https://i.froala.com/assets/photo3.jpg",
-    "thumb":"https://i.froala.com/assets/thumbs/photo3.jpg",
-    "name":"Image 2024-09-30 at 19:09:57.jpg",
+{
+    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
+    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/logo-masjid-agung.png",
+    "name":"logo",
+    "type":"image",
+    "id":2,
+    "tag":"logo"
+},
+{
+    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/said-abdullah.png",
+    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/said-abdullah.png",
+    "name":"ttd said abdullah",
     "type":"image",
     "id":3,
-    "tag":"beach"
-}]
+    "tag":"ttd"
+},
+{
+    "url":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/syahdi-hidayat.png",
+    "thumb":"https://raw.githubusercontent.com/shunici/kop/refs/heads/main/masjid_agung_al_munawwarah_bjb/syahdi-hidayat.png",
+    "name":"ttd syahdi hidayat",
+    "type":"image",
+    "id":3,
+    "tag":"ttd"
+}
+]
