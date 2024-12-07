@@ -30,5 +30,13 @@
     "type":"image",
     "id":3,
     "tag":"ttd"
+},    
+{
+    "url":"https://upz.istiqlal.or.id/assets/images/pengurus.png",
+    "thumb":"https://upz.istiqlal.or.id/assets/images/pengurus.png",
+    "name":"struktur",
+    "type":"image",
+    "id":4,
+    "tag":"ttd"
 }
 ]
